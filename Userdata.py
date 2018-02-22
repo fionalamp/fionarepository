@@ -1,5 +1,5 @@
 
-# Enter file name which is in same directory as that of the program
+
 fileName = str(input('Γράψε όνομα αρχείου : '))
 numwords=0
 numLines=0
